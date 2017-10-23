@@ -16,3 +16,5 @@ Example: A left pyramid with four rows
 ***
 ****
 ```
+
+Try it out: [Download](https://github.com/arafatamim/pattern-generator/releases/)
